@@ -5,7 +5,7 @@ Jogo feito no DIO Bootcamp Orbi Games
 Projeto desenvolvido com instruções de [Celso Henrique] na trilha de estudo do Bootcamp "DIO Orbi Web Games" da [dio.me].
 
 <p align="center">
-	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/TiagoPS2/Jogo-dinossauro-sem-net-HTML">
+	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/TiagoPS2/Jogo-dinossauro-sem-net-HTML-">
 	<a href="https://www.linkedin.com/in/devfrontend/">
 		<img alt="Made by Celso Henrique" src="https://img.shields.io/badge/made%20by- Celso Henrique-blue">
 	</a>
