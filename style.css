@@ -1,0 +1,69 @@
+  
+@font-face {
+  font-family: "Arcade";
+  src: url("./fonts/ARCADE_N.TTF");
+}
+*{
+  font-family: 'Arcade';
+}
+body{
+  margin: auto;
+  display: flow-root;
+  position: relative;
+  text-align: center;
+  height: 500px;
+  align-items: center;
+  background: #fafafa;
+  border: #666666 solid 4px;
+}
+.start-button{
+  border: 0;
+  padding: 10px;
+  font-weight: 400;
+  font-size: 20px;
+  background-color: rgb(151, 144, 146);
+  color: white;
+  cursor: pointer;
+  border-radius: 8px;
+  width: 30%;
+}
+.game-over{
+  font-family: 'Arcade';
+  margin-top: 100px;
+  position: relative;
+  color: #666666;
+}
+.dino, .cactus,.background{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  bottom: 0px;
+}
+.dino{
+  background-image: url('./Imgs/dino.png');
+}
+.cactus{
+  background-image: url('./Imgs/cactus.png');
+}
+#pontuacao{
+  font-size: 25px;
+  position: absolute;
+  margin-top: 25px;
+  margin-left: 10px;
+  color: rgb(151, 144, 146);
+}
+@keyframes slideback{
+  from{
+    background-position: 60000%;
+  }
+  to{
+    background-position: 0%;
+  }
+}
+.background{
+  width: 100%;
+  height: 200px;
+  background-image: url(./Imgs/background.png);
+  background-repeat: repeat-x;
+  animation:  slideback 800s infinite linear;
+}
