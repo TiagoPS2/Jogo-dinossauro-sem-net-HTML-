@@ -13,7 +13,7 @@ Projeto desenvolvido com instruções de [Celso Henrique] na trilha de estudo do
 		<img alt="Update by TiagoPS2" src="https://img.shields.io/badge/update%20by-TiagoPS2-green">
 	</a>
 	<a href="https://github.com/TiagoPS2/Jogo-Space-Shooter-HTML/commits/main">
-		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoPS2/Jogo-dinossauro-sem-net-HTML?color=blue">
+		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoPS2/Jogo-dinossauro-sem-net-HTML-?color=blue">
 	</a>
 </p>
 
