@@ -32,7 +32,7 @@ Projeto desenvolvido com instruções de [Celso Henrique] na trilha de estudo do
 Link da base utilizada neste projeto: [CelsoHenrique/dio-dino-game].
 
 ### Previa do jogo abaixo:
- - Teste o jogo aqui: https://diospaceshooter.netlify.app
+ - Teste o jogo aqui: https://dinosemnetdio.netlify.app/
  
 
 ---
